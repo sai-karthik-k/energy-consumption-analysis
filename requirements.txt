@@ -1,0 +1,41 @@
+# Core Data Processing Libraries
+pandas>=1.5.3
+numpy>=1.24.2
+scikit-learn>=1.2.2
+
+# Web Application Framework
+streamlit>=1.22.0
+streamlit-extras>=0.2.7
+
+# Data Visualization
+plotly>=5.13.1
+matplotlib>=3.7.1
+
+# Excel File Handling
+openpyxl>=3.1.2
+xlrd>=2.0.1
+
+# Machine Learning Model Storage
+joblib>=1.2.0
+
+# Date Time Processing
+python-dateutil>=2.8.2
+
+# Optional Dependencies for Enhanced Performance
+numba>=0.56.4
+scipy>=1.10.1
+
+# Development and Code Quality
+black>=23.3.0
+pylint>=2.17.3
+pytest>=7.3.1
+
+# Additional Streamlit Components
+streamlit-option-menu>=0.3.2
+streamlit-lottie>=0.0.3
+
+# Progress Bars and Styling
+tqdm>=4.65.0
+
+# Environment Management
+python-dotenv>=1.0.0
