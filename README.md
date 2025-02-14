@@ -3,8 +3,6 @@
 ## Overview
 This system is designed to analyze and predict energy consumption patterns across different buildings, helping identify potential illegal usage of utilities (water, electricity, and gas). It features an interactive web interface for data visualization and machine learning-based predictions.
 
-![System Interface](interface.png)
-
 ## Features
 - 📊 **Interactive Data Visualization**
   - Time-series analysis of energy consumption
@@ -75,7 +73,7 @@ energy-consumption-analysis/
 streamlit run ECA.py
 ```
 
-2. Upload your dataset:
+2. Upload your dataset: (Energy Consumptions Dataset.xlsx)
    - Navigate to 'Dataset Upload'
    - Upload Excel file with required sheets:
      * Building Master
